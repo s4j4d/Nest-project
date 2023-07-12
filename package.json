@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@eventstore/db-client": "^5.0.1",
+    "@nestjs/cli": "^10.1.8",
+    "nest-cli": "^0.0.5"
+  }
+}
